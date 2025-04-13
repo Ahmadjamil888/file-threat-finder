@@ -1,6 +1,6 @@
 # File Threat Detection System
 
-![Threat Detection Demo](https://via.placeholder.com/800x400?text=File+Threat+Detection+Screenshot)
+![Threat Detection Demo](https://raw.githubusercontent.com/Ahmadjamil888/file-threat-finder/refs/heads/main/Screenshot%20(30).png)
 
 A web-based application that detects potential threats in files by analyzing file extensions, size, and content patterns.
 
@@ -53,7 +53,7 @@ A web-based application that detects potential threats in files by analyzing fil
 
 | Safe File Detection | Threat Detected | Warning Example |
 |---------------------|-----------------|-----------------|
-| ![Safe](https://via.placeholder.com/300x200?text=Safe+File+Example) | ![Threat](https://via.placeholder.com/300x200?text=Threat+Detected) | ![Warning](https://via.placeholder.com/300x200?text=Warning+Example) |
+| ![Safe](https://raw.githubusercontent.com/Ahmadjamil888/file-threat-finder/refs/heads/main/Screenshot%20(30).png) | ![Threat](https://raw.githubusercontent.com/Ahmadjamil888/file-threat-finder/refs/heads/main/Screenshot%20(31).png) | ![Warning](https://raw.githubusercontent.com/Ahmadjamil888/file-threat-finder/refs/heads/main/Screenshot%20(32).png) |
 
 ## Limitations
 
