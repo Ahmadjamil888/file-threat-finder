@@ -53,7 +53,7 @@ A web-based application that detects potential threats in files by analyzing fil
 
 | Safe File Detection | Threat Detected | Warning Example |
 |---------------------|-----------------|-----------------|
-| ![Safe](https://raw.githubusercontent.com/Ahmadjamil888/file-threat-finder/refs/heads/main/Screenshot%20(30).png) | ![Threat](https://raw.githubusercontent.com/Ahmadjamil888/file-threat-finder/refs/heads/main/Screenshot%20(31).png) | ![Warning](https://raw.githubusercontent.com/Ahmadjamil888/file-threat-finder/refs/heads/main/Screenshot%20(32).png) |
+| ![no file](https://raw.githubusercontent.com/Ahmadjamil888/file-threat-finder/refs/heads/main/Screenshot%20(30).png) | ![safe file detection](https://raw.githubusercontent.com/Ahmadjamil888/file-threat-finder/refs/heads/main/Screenshot%20(31).png) | ![threat detected](https://raw.githubusercontent.com/Ahmadjamil888/file-threat-finder/refs/heads/main/Screenshot%20(32).png) |
 
 ## Limitations
 
